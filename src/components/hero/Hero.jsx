@@ -1,6 +1,6 @@
 import React from "react";
 import { IoIosArrowRoundForward } from "react-icons/io";
-import Person from "../../assets/images/hero-img/image.png";
+import image from "../../assets/images/hero-img/image.png";
 import Bg from "../../assets/images/hero-img/bg.png";
 import Logoipsum from "../../assets/images/hero-img/Logo.png";
 import Logoipsum2 from "../../assets/images/hero-img/Logo2.png";
@@ -30,7 +30,7 @@ function Hero() {
                 <img className="absolute left-0 top-0" src={Bt} alt="bt-img" />
               </button>
             </div>
-            <img className="mt-24 z-10" src={Person} alt="Person-img" />
+            <img className="mt-24 z-10" src={image} alt="Person-img" />
             <img
               className="absolute top-24 right-[-20px] z-0"
               src={Bg}
