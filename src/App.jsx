@@ -4,7 +4,7 @@ import Header from "./components/header/Header";
 import Service from "./components/service/Service";
 import Company from "./components/Company/Company";
 import Career from "./components/career/Career";
-import Footer from "./components/footer/footer";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
